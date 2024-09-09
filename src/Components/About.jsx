@@ -14,8 +14,8 @@ const About = ({bgcolor,darkmode}) => {
           <p className="my-4  lg:text-nowrap "
            style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}
           >
-            I have Completed My <span className="font-bold">B.Tech Degree </span>From Ganga institute of technology and management  <br /> Engineering College, Kabalana.
-            My Specilization in <span className="font-bold">Computer Science Engineering (CSE)</span>
+            I am pursuing  <span className="font-bold">B.Tech Degree </span>From Chandubhai S Patel Institute of Technology, CHARUSAT,<br /> Anand.
+            My Specilization in <span className="font-bold">Computer Engineering (CE)</span>
              
             <br />{" "}
           </p>
@@ -75,7 +75,7 @@ const About = ({bgcolor,darkmode}) => {
                 <p className="text-sm"
                  style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}
                 >
-                   Design <span className="font-bold">Restful APIs</span> that are easy to integrate, ensuring seamless data exchange across platforms. Whether it’s for <span className="font-bold">mobile apps, web services, or microservices </span>.
+                   Design <span className="font-bold">Restful APIs</span> that are easy to integrate, ensuring seamless data exchange across platforms. Whether it’s for <span className="font-bold"> web services, or microservices </span>.
                 </p>
               </div>
             </div>
